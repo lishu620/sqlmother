@@ -5,7 +5,7 @@
         <RouterLink to="/">
           <a-row align="middle">
             <img src="./assets/logo.png" alt="SQL之母" class="logo" />
-            <span class="title">SQL之母</span>
+            <span class="title">Mysql-Study</span>
           </a-row>
         </RouterLink>
       </a-col>
@@ -53,8 +53,7 @@
         </a-space>
       </p>
       <p>
-        SQL之母 - SQL 自学网站 ©2023 by
-        <a href="https://github.com/liyupi" target="_blank">程序员鱼皮</a>
+        Mysql-Study Create By mlishu
       </p>
     </div>
     <a-back-top :style="{ right: '24px' }" />
