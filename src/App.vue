@@ -5,7 +5,7 @@
         <RouterLink to="/">
           <a-row align="middle">
             <img src="./assets/logo.png" alt="SQL之母" class="logo" />
-            <span class="title">Mysql-Study</span>
+            <span class="title">MStudy</span>
           </a-row>
         </RouterLink>
       </a-col>
