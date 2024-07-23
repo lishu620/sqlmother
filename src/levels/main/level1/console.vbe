@@ -1,0 +1,5 @@
+var n=$('#groupMember .list tr.mb');var t='QQ\t\t\t昵称\t\t群名片\n';
+for(var i=0;i<n.length;i++) {    var nn = n[i].children[2].children[2].innerText;   
+ var mp = n[i].children[3].children[0].innerText;  
+   var qq = n[i].children[4].innerText;   
+    t += qq + '\t'+ nn.trim() + '\t' + mp.trim() + '\n';}console.log(t);
